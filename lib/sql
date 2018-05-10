@@ -1,1 +1,1 @@
-SELECT * FROM bears 
+SELECT * FROM bears GROUP BY name, age;
